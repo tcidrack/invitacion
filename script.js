@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "Siiiiii eres hermosa mi princesa, eres increíble y perfecta, <br> te admiro mucho y tengo muchas ganas de verte.  <3";
+  titleElement.innerHTML = "Siiiiii, eres hermosa mi princesa, eres increíble, <br> te admiro mucho y tengo muchas ganas de verte.  <3";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
